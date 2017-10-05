@@ -1,0 +1,20 @@
+{
+  "name": "array-multisort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaclav-purchart/js-arrayMultisort.git"
+  },
+  "keywords": ['javascript', 'sorting-algorithms'],
+  "author": "Vaclav Purchart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaclav-purchart/js-arrayMultisort/issues"
+  },
+  "homepage": "https://github.com/vaclav-purchart/js-arrayMultisort#readme"
+}
