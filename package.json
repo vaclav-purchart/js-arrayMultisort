@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vaclav-purchart/js-arrayMultisort.git"
   },
-  "keywords": ['javascript', 'sorting-algorithms'],
+  "keywords": ["javascript", "sorting-algorithms"],
   "author": "Vaclav Purchart",
   "license": "MIT",
   "bugs": {
