@@ -19,6 +19,6 @@ const arrayMultisort = (sortFn) => (refArray, ...others) => {
 	]
 }
 
-if (module) {
+if (typeof module !== 'undefined') {
 	module.exports = arrayMultisort
 }
