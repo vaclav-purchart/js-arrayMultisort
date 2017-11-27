@@ -1,6 +1,6 @@
 {
   "name": "array-multisort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array multi-sort with O(N*log(N)) complexity for JavaScript.",
   "main": "index.dist.js",
   "scripts": {
