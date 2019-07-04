@@ -6,14 +6,9 @@ arrayMultisort((a, b) => (a - b))([3, 4, 1, 2], ['A', 'B', 'C', 'D'])
 // returns [[1, 2, 3, 4], ['C', 'D', 'A', 'B']]
 ```
 
-## Installation and Usage
+## Installation
 ```bash
 npm i array-multisort
-```
-
-```javascript
-const arrayMultisort = require('array-multisort')
-arrayMultisort((a, b) => (a - b))([3, 4, 1, 2], ['A', 'B', 'C', 'D'])
 ```
 
 ## Syntax
@@ -35,6 +30,8 @@ arrayMultisort((a, b) => (a - b))([3, 4, 1, 2], ['A', 'B', 'C', 'D'])
 ## Usage
 **Example 1:**
 ```javascript
+const arrayMultisort = require('array-multisort')
+
 arrayMultisort((a, b) => (a - b))([3, 4, 1, 2], ['A', 'B', 'C', 'D'])
 ```
 
